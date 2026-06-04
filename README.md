@@ -12,6 +12,7 @@
 一旦任务交给我，我必然全力以赴！  
 ## 如果我的项目帮到了你  
 ## 别忘了留下你的Star哦ヾ(≧ ▽ ≦)ゝ
+![ZX_RAYER](name.png)
 
 <!--
 **ZX-RAY1124/ZX-RAY1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
